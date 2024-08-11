@@ -1,6 +1,7 @@
 # Modular Fightstick Stand
 
 ![IMG_20240802_080146](https://github.com/user-attachments/assets/94dc203c-bcaf-45b0-b88f-538690d63082)
+(All IRL photos in this guide illustrate a previous design iteration and any components shown are subject to change.)
 
 This project is my answer to a question almost nobody asked: what if I want a stand for my arcade controller (aka "fightstick") but it has a unique shape or I have unique needs for displaying it?
 
