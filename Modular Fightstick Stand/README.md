@@ -50,6 +50,8 @@ Supports are only recommended for components with "Female" connectors. For "Spin
 
 ## Closing
 
+![IMG_20240803_203453](https://github.com/user-attachments/assets/3cbeac4c-ccd4-49fe-bf05-7b1ba0c85d75)
+
 Thank you for checking out this project. I hope it helps you display your fightsticks safely and effectively. If you have any questions, concerns, or even requests for suggested stand pieces, you can contact me with your feedback. 
 
 I recommend everyone check out the OpenStickCommunity as well. They are making incredible fightstick products and are also responsible for the ever-increasingly popular GP2040-ce breakout board firmware which is changing the way people play their fighting games on modern consoles.
