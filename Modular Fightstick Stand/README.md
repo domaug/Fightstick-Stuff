@@ -1,6 +1,8 @@
 
 # Modular Fightstick Stand
 
+![IMG_20240802_080146](https://github.com/user-attachments/assets/94dc203c-bcaf-45b0-b88f-538690d63082)
+
 This project is my answer to a question almost nobody asked: what if I want a stand for my arcade controller (aka "fightstick") but it has a unique shape or I have unique needs for displaying it?
 
 The parts in this project are all modular and, when assembled together, function as a stand for your fightsticks.
@@ -8,6 +10,9 @@ The parts in this project are all modular and, when assembled together, function
 ## Break it down for me.
 
 Good news: it's already broken down! 
+
+![image](https://github.com/user-attachments/assets/e948b657-ef75-46a6-89ee-4e0680f4b3cd)
+![image](https://github.com/user-attachments/assets/993c80e2-a790-4bfe-b384-236c9720ab7f)
 
 My goal for this project was to make sturdy stands for fightsticks that are customizable to suit the owner's needs and accommodate many different shapes and sizes of fightsticks. The components are all 3D printable as designed, and one stand assembly will use approximately 110-120g of filament.
 
@@ -18,6 +23,8 @@ This project is for you IF:
 - You like to tinker and play with very basic assembly.
 
 ## Fantastic Parts (and how to assemble them)
+
+![image](https://github.com/user-attachments/assets/a86b33c3-d0f2-4048-bab7-5d7ff321ba8e)
 
 To make a stand, you would need the following components: 
 
