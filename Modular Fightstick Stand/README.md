@@ -38,6 +38,8 @@ The parts use dovetail connections to join to each other. The tolerances were de
 
 ## Print settings
 
+The components are designed to be printable in a 220mm x 220mm build area. For more context, I used a Bambu Lab A1 printer, which has a 256mm x 256mm x 256mm build volume.
+
 I used default settings for a Bambu Lab A1 printer through Bambu Studio with the following changes: 
 
 - Wall loops: 3
