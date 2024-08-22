@@ -57,5 +57,5 @@ Supports are only recommended for components with "Female" connectors. For "Spin
 
 Thank you for checking out this project. I hope it helps you display your fightsticks safely and effectively. If you have any questions, concerns, or even requests for suggested stand pieces, you can contact me with your feedback. 
 
-I recommend everyone check out the OpenStickCommunity as well. They are making incredible fightstick products and are also responsible for the ever-increasingly popular GP2040-ce breakout board firmware which is changing the way people play their fighting games on modern consoles.
+I recommend everyone check out the [OpenStickCommunity](https://github.com/OpenStickCommunity) as well. They are making incredible fightstick products and are also responsible for the ever-increasingly popular GP2040-ce breakout board firmware which is changing the way people play their fighting games on modern consoles.
 
