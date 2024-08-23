@@ -22,4 +22,4 @@ Based on my Modular Fightstick Stand designs, this printable, modular stand was 
 
 ## Outro
 
-I love the PRISM. Support WunWae and support GRAM Controllers. That's all for now.
+I love the PRISM. Support WunWae, support GRAM Controllers, and support open-source projects. That's all for now.
