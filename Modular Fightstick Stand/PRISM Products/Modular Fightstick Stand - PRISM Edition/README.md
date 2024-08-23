@@ -8,7 +8,7 @@ You will need the following to make your own stand:
 - (1) ["Endcap (Male)"](https://github.com/domaug/Fightstick-Stuff/blob/main/Modular%20Fightstick%20Stand/3D%20Print%20Files/Endcap_Male.STL)
 - (1) ["Endcap (Female)"](https://github.com/domaug/Fightstick-Stuff/blob/main/Modular%20Fightstick%20Stand/3D%20Print%20Files/Endcap_Female.STL)
 
-Like the regular "Stand Leg" components, you can print them on either large side without supports. The "Endcap" components and "Modular Spine" should be printed with the flat side down and use supports. I used the following print settings for the components:
+For the "Stand Leg" component, you can print it on either large side without supports. In fact, if you have a textured PEI plate and want a nice exterior finish, I recommend printing one "Stand Leg" each on both sides. The "Endcap" components and "Modular Spine" should be printed with the flat side down and use supports. I used the following print settings for the components:
 
 - Wall loops: 3
 - Infill: 15%
