@@ -2,7 +2,7 @@
 
 ![IMG_20240820_215438-1](https://github.com/user-attachments/assets/d506ec39-ed81-4672-ba73-7dbdf5ca515d)
 
-The [PRISM](https://gramctrl.com/blogs/news/gram-prism) is a diabolical contraption created by the brilliant [WunWae](https://www.twitter.com/wuhnwae) and sold by the lovely folks at [GRAM Controllers](https://www.twitter.com/GRAMControllers). 
+The [PRISM](https://gramctrl.com/blogs/news/gram-prism) is a diabolical contraption created and sold by the brilliant [WunWae](https://www.twitter.com/wuhnwae) with a modified version sold by the lovely folks at [GRAM Controllers](https://www.twitter.com/GRAMControllers). 
 
 I love it. It is ergonomic, eye-catching, AND open-source. Because it's open-source, it's not limited to being used for platform fighters. I've made mine based on features made by [Avtom](https://www.github.com/avtom) and Kumite.
 
