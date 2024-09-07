@@ -36,6 +36,16 @@ Assembly is very simple. The "Leg" pieces have a notch at the bottom where you c
 
 The parts use dovetail connections to join to each other. The tolerances were designed to hold the pieces together with friction between the layer lines, though your print settings and filament choices may affect the fit. The dovetail connections are universal in all of the components, so you can join any "Male" connection with any "Female" connection and make some creative configurations of stands.
 
+## Foam-Saving Hinge Pads (Optional)
+
+Do you have fightsticks that have foam bottom pads and you don't want the "stand legs" to leave unsightly dents in the foam? Then check this out!
+
+![image](https://github.com/user-attachments/assets/da57fae8-c7bb-4c71-a004-54759231f8d1)
+
+These foam-saving round pads distribute the weight across a larger surface area so they won't leave a small mark on your anti-slip foam. They simply slip on the ends of your "stand leg" components and have free swiveling action up to 30°. There are two sizes at the moment: 1.25" diameter and 2" diameter. 
+
+Just print them on the flat pad side. No supports necessary.
+
 ## Print settings
 
 The components are designed to be printable in a 220mm x 220mm build area. For more context, I used a Bambu Lab A1 printer, which has a 256mm x 256mm x 256mm build volume.
