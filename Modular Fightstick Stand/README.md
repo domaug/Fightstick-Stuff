@@ -44,7 +44,7 @@ Do you have fightsticks that have foam bottom pads and you don't want the "stand
 
 ![image](https://github.com/user-attachments/assets/da57fae8-c7bb-4c71-a004-54759231f8d1)
 
-These foam-saving round pads distribute the weight across a larger surface area so they won't leave a small mark on your anti-slip foam. They simply slip on the ends of your "stand leg" components and have free swiveling action up to 30°. There are two sizes at the moment: 1.25" diameter and 2" diameter. 
+These foam-saving round pads distribute the weight across a larger surface area so they will not cause any indentations in your fightstick's foam pad, so long as they are seated flat against the foam pad. They simply slip on the ends of your "stand leg" components and have free swiveling action up to 30°. There are two sizes at the moment: 1.25" diameter and 2" diameter. 
 
 Just print them on the flat pad side. No supports necessary.
 
