@@ -38,6 +38,8 @@ The parts use dovetail connections to join to each other. The tolerances were de
 
 ## Foam-Saving Hinge Pads (Optional)
 
+![image](https://github.com/user-attachments/assets/d0a4c3a3-69fd-48e9-a307-ce329c5d5238)
+
 Do you have fightsticks that have foam bottom pads and you don't want the "stand legs" to leave unsightly dents in the foam? Then check this out!
 
 ![image](https://github.com/user-attachments/assets/da57fae8-c7bb-4c71-a004-54759231f8d1)
